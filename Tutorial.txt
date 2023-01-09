@@ -1,0 +1,18 @@
+Terima kasih sudang menggunakan Badut discord nodejs
+
+- Untuk penginstallan, cukup ekstrak file zipnya
+- masuk ke folder cmdnya
+- ketik "node index tanpa kutip"
+
+[Info] Generate token hanya bisa digunakan di IP lokal, karena mengharuskan login di browser dengan alamat IP yang sama terlebih dahulu untuk authentikasi!
+Dan untuk pengguna vps kalian bisa generete terlebih dahulu menggunakan ip local, kemudian salin tokennya dan memasukkan kedalam file yang ada di /data/token.txt
+
+Untuk penggunaan multi channel (auto chat ke banyak channel)
+cukup pastekan ID channel kedalam file channel.txt
+kemudian pas run bot cukup input nama file nya aja (ex: channel.txt)
+
+Jika ada pertanyaan lain silahkan chat Ahda
+https://facebook.com/ahdazain
+
+Terimakasih
+Ahda.

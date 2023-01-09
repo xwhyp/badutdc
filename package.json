@@ -1,0 +1,14 @@
+{
+  "name": "discord-get-token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "async-file": "^2.0.2",
+    "delay": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
